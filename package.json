@@ -1,0 +1,27 @@
+{
+  "name": "join-hider",
+  "version": "1.0.0",
+  "description": "Telegram bot to delete joins and lefts in groups",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SamixGroup/join-hider.git"
+  },
+  "author": "Samandar Murodjonov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SamixGroup/join-hider/issues"
+  },
+  "homepage": "https://github.com/SamixGroup/join-hider#readme",
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "telegraf": "^4.12.2"
+  },
+  "devDependencies": {
+    "@types/node": "^18.15.5",
+    "typescript": "^5.0.2"
+  }
+}
